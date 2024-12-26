@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1,h2{
+    color: #db1f48;
+}
+.post{
+    background-color: #e5ddc8;
+    border:none;
+    border-radius: 2rem;
+}
+a{
+    color: #01949a;
+    text-decoration: none;
+}
+.user{
+    color: #004369;
+}
+.content{
+    color: #004369;
+}
+button{
+    border:none;
+    background-color:   #f1f1f1;
+    border-radius: 2rem;
+    padding:0.2rem 0.3rem;
+    margin-bottom: 0.2rem;
+    color: #01949a;
+}
